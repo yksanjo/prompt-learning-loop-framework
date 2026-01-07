@@ -1,8 +1,11 @@
 # Prompt Learning Loop Evaluation Framework
 
-![License](https://img.shields.io/github/license/ai-engineer-community/prompt-learning-loop-framework)
+![License](https://img.shields.io/github/license/yksanjo/prompt-learning-loop-framework)
+![GitHub stars](https://img.shields.io/github/stars/yksanjo/prompt-learning-loop-framework?style=social)
+![GitHub issues](https://img.shields.io/github/issues/yksanjo/prompt-learning-loop-framework)
 ![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow)
 ![AB-Testing](https://img.shields.io/badge/A/B-Testing-blue)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 Framework for collecting human feedback on model outputs, A/B testing prompt variations, automated metric tracking (accuracy, latency, cost), and dashboard showing prompt performance over time.
 
